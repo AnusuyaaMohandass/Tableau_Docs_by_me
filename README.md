@@ -3,13 +3,17 @@ Files containing Data Visualization files based on Tableau. These files includes
 
 # Project 1: Dashboard 1 - Basic Outline Dashboard
 Hi all,
-It's been sometime since I started my journey into the field of Data Analytics. Everyday is like a learning for me. Every mistake which I make is like a new lesson. 
-Okay, let's get straight to the point. I have started a working on a dashboard for a Sales Transaction Datasets which higlights the purchases done by various customers around the world.
+
+It's been sometime since I started my journey into the field of Data Analytics. Everyday is like a learning for me. Every mistake which I make is like a new lesson. Okay, let's get straight to the point. I have started a working on a dashboard for a Sales Transaction Datasets which higlights the purchases done by various customers around the world.
 I have created a dashboard with very basic details of the datasets, like No. of Order placed or cancelled in various countries, Numbers of customers in a specific country and Country wise orders.
 Let me emphasize on the columns in this datasets. They are:
 Transaction No., Date, Product No., Product Name, Price, Quantity, CustomerNo, Country and Status. Status was the only column which I added for easier usage.
+
 The first chart in the Dashboard namely 'PC_Orders_Distinct' shows the numbers of orders placed or cancelled in all the countries or specifically any country(The filter which I added on the side is for this chart)
+
 The second chart in the Dashboard namely 'HighestCustomers_Distinct' shows the number of customer present in each country with UK being the highest.
+
 The third chart in the Dashboard namely 'Highest_No_of_Orders_Distinct' again shows the number of orders placed in each country specifically. 
+
 Kindly check out this link for looking into the dashboard.
 https://public.tableau.com/app/profile/anusuyaa.mohandass/viz/Dashboard_Sales_Basic_Outline/Sales_Transaction_Basic_Idea?publish=yes
